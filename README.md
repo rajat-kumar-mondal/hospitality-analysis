@@ -68,8 +68,8 @@ Key insights discovered during the analysis include:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/hospitality_analysis.git
-cd hospitality_analysis
+git clone https://github.com/rajat-kumar-mondal/hospitality-analysis.git
+cd hospitality-analysis
 ```
 
 ### 2️⃣ Install Dependencies
