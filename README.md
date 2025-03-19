@@ -60,7 +60,7 @@ Key insights discovered during the analysis include:
 6. **Booking Preferences:** The most preferred room type was RT2 (i.e., Premium Rooms), accounting for 37% of total bookings.
 7. **Overbooking Patterns:** Found that only 0.07% of recorded dates experienced overbooking incidents.
 8. **Net Revenue Distribution by Room Type:** Premium room (RT2) bookings contributed to the highest revenue (~33%), with an average booking value of 13K₹/day.
-9. **Average Rating:** The hotels in Delhi have the highest average rating of **3.8/5**, while the hotels in Bangalore have the lowest rating of **3.4/5**. So, the hotels in Bangalore need to improve their service.
+9. **Average Rating:** The hotels in Delhi have the highest average rating of 3.8/5, while the hotels in Bangalore have the lowest rating of 3.4/5. So, the hotels in Bangalore need to improve their service.
 
 
 ## 🛠 Installation & Usage
