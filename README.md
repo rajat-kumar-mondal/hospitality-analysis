@@ -75,7 +75,7 @@ cd hospitality-analysis
 ### 2️⃣ Install Dependencies
 
 ```bash
-pip install pandas numpy matplotlib
+pip install pandas matplotlib
 ```
 
 ### 3️⃣ Run the Analysis
@@ -87,8 +87,7 @@ Open `hospitality_analysis.ipynb` in Jupyter Notebook and execute the cells to e
 The project leverages the following key libraries:
 
 - **pandas** – Data manipulation and cleaning
-- **numpy** – Numerical computations
-- **matplotlib** – Data visualization
+- **matplotlib.pyplot** – Data visualization
 
 ---
 
